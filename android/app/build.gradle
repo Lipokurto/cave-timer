@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.darkapk03"
+    namespace "com.darkcavetimer"
     defaultConfig {
-        applicationId "com.darkapk03"
+        applicationId "com.darkcavetimer"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2
